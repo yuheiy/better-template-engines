@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "rm -rf _site && eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.7.1",
+    "htm": "^2.0.0",
+    "ulid": "^2.3.0",
+    "vhtml": "^2.1.0"
+  }
+}

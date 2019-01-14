@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "rm -rf _site && eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.7.1"
+  }
+}

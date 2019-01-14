@@ -1,0 +1,4 @@
+node_modules
+_site
+src/components/*.js
+src/**/*.11ty.js
